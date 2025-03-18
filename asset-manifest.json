@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/duct-calculator/static/css/main.e6c13ad2.css",
-    "main.js": "/duct-calculator/static/js/main.869e5b5b.js",
-    "static/js/453.704c69ed.chunk.js": "/duct-calculator/static/js/453.704c69ed.chunk.js",
-    "index.html": "/duct-calculator/index.html",
-    "main.e6c13ad2.css.map": "/duct-calculator/static/css/main.e6c13ad2.css.map",
-    "main.869e5b5b.js.map": "/duct-calculator/static/js/main.869e5b5b.js.map",
-    "453.704c69ed.chunk.js.map": "/duct-calculator/static/js/453.704c69ed.chunk.js.map"
+    "main.css": "/Ductculator1/static/css/main.e6c13ad2.css",
+    "main.js": "/Ductculator1/static/js/main.9b23e3b6.js",
+    "static/js/453.704c69ed.chunk.js": "/Ductculator1/static/js/453.704c69ed.chunk.js",
+    "index.html": "/Ductculator1/index.html",
+    "main.e6c13ad2.css.map": "/Ductculator1/static/css/main.e6c13ad2.css.map",
+    "main.9b23e3b6.js.map": "/Ductculator1/static/js/main.9b23e3b6.js.map",
+    "453.704c69ed.chunk.js.map": "/Ductculator1/static/js/453.704c69ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.869e5b5b.js"
+    "static/js/main.9b23e3b6.js"
   ]
 }
