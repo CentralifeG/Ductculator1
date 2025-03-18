@@ -1,5 +1,11 @@
 {
   "name": "duct-calculator",
+  "version": "1.0.0",
+  "homepage": "https://CentralifeG.github.io/duct-calculator",
+  ...
+}
+{
+  "name": "duct-calculator",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
